@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import View.*?>
+
+<BorderPane onMouseClicked="#mouseClicked" prefHeight="478.0" prefWidth="838.0" stylesheets="@MainStyle.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.MyViewController">
+    <center>
+        <Pane maxHeight="440.0" maxWidth="600.0" prefHeight="440.0" prefWidth="650.0" BorderPane.alignment="CENTER">
+            <children>
+                <MazeDisplayer fx:id="mazeDisplayer" height="400.0" imageFileNameGoal="./resources/images/portal.png" imageFileNamePlayer="./resources/images/Charmander.png" imageFileNameWall="./resources/images/wall.png" onKeyPressed="#keyPressed" onMouseDragged="#drag" onMousePressed="#pressedMouse" onMouseReleased="#releasedMouse" width="400.0" />
+            </children>
+            <padding>
+                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+            </padding>
+        </Pane>
+    </center>
+   <top>
+          <MenuBar prefHeight="0.0" prefWidth="838.0" BorderPane.alignment="CENTER">
+              <menus>
+                  <Menu mnemonicParsing="false" text="File">
+                      <items>
+                          <MenuItem fx:id="menuItemNewGame" mnemonicParsing="false" onAction="#newGame" text="New" />
+                          <MenuItem fx:id="saveMaze" mnemonicParsing="false" onAction="#saveMaze" text="Save" />
+                          <MenuItem fx:id="loadMaze" mnemonicParsing="false" onAction="#loadMaze" text="Load" />
+                      </items>
+                  </Menu>
+                  <Menu mnemonicParsing="false" text="Options">
+                      <items>
+                          <MenuItem mnemonicParsing="false" onAction="#setConfigurations" text="Properties" />
+                      </items>
+                  </Menu>
+                  <Menu mnemonicParsing="false" text="Exit">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#closeProgram" text="Exit" />
+               </items>
+            </Menu>
+                  <Menu mnemonicParsing="false" text="Help">
+               <items>
+                   <MenuItem mnemonicParsing="false" onAction="#StartMusic" text="PlayMusic" />
+                   <MenuItem mnemonicParsing="false" onAction="#StopMusic" text="StopMusic" />
+                   <MenuItem mnemonicParsing="false" onAction="#solveMaze" text="Solve" />
+               </items>
+            </Menu>
+                  <Menu mnemonicParsing="false" text="About">
+                      <items>
+                          <MenuItem mnemonicParsing="false"  onAction="#Information" text="Information" />
+                      </items>
+                        </Menu>
+              </menus>
+          </MenuBar>
+   </top>
+   <left>
+          <GridPane prefHeight="453.0" prefWidth="182.0" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                  <RowConstraints maxHeight="360.80000457763674" minHeight="10.0" prefHeight="174.3999801635742" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="442.40000343322754" minHeight="10.0" prefHeight="279.2000198364258" vgrow="SOMETIMES" />
+              </rowConstraints>
+              <Label text="Player Row" />
+              <Label text="Player Col" GridPane.rowIndex="1" />
+              <Label fx:id="playerRow" GridPane.columnIndex="1" />
+              <Label fx:id="playerCol" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+          </GridPane>
+   </left>
+</BorderPane>
