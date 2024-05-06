@@ -1,436 +1,140 @@
-2021.06.17 15:56:41.676 INFO  View.MazeLogger - Starting new game
-2021.06.17 15:56:44.219 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 15:56:44.234 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 15:56:44.244 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {6,7}
-2021.06.17 15:56:54.566 INFO  View.MazeLogger - User requested a solution to the maze
-2021.06.17 15:56:54.566 INFO  View.MazeLogger - Connecting to a Maze Solving Server...
-2021.06.17 15:56:54.586 INFO  View.MazeLogger - Solution found using DepthFirstSearch maze solving algorithm
-2021.06.17 15:56:54.586 INFO  View.MazeLogger - Sending solution
-2021.06.17 15:56:54.586 INFO  View.MazeLogger - Program will use DepthFirstSearch solving algorithm
-2021.06.17 16:06:32.013 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:06:34.012 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:06:34.038 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:06:34.044 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,2}
-2021.06.17 16:06:36.854 INFO  View.MazeLogger - User requested a solution to the maze
-2021.06.17 16:06:36.855 INFO  View.MazeLogger - Connecting to a Maze Solving Server...
-2021.06.17 16:06:36.915 INFO  View.MazeLogger - Sending solution
-2021.06.17 16:06:36.916 INFO  View.MazeLogger - Program will use DepthFirstSearch solving algorithm
-2021.06.17 16:06:56.300 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 16:07:00.876 INFO  View.MazeLogger - User requested a solution to the maze
-2021.06.17 16:07:00.877 INFO  View.MazeLogger - Connecting to a Maze Solving Server...
-2021.06.17 16:07:00.909 INFO  View.MazeLogger - Sending solution
-2021.06.17 16:07:00.910 INFO  View.MazeLogger - Program will use BreadthFirstSearch solving algorithm
-2021.06.17 16:08:21.363 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:08:22.803 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:08:22.834 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:08:22.842 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {45,0}
-2021.06.17 16:10:05.309 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:15:05.830 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:15:08.901 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:15:08.947 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:15:08.956 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {41,3}
-2021.06.17 16:15:17.154 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:15:21.233 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:15:21.263 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:15:21.263 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,3}
-2021.06.17 16:16:36.843 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:16:38.006 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:16:38.038 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:16:38.047 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,20}
-2021.06.17 16:16:46.432 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:16:46.461 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:16:46.462 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {45,41}
-2021.06.17 16:43:42.022 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:43:43.571 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:43:43.611 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:43:43.621 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,18}
-2021.06.17 16:43:47.835 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 16:43:54.322 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:43:54.335 INFO  View.MazeLogger - New maze generated using EmptyMazeGenerator maze generator
-2021.06.17 16:43:54.336 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,0} goal position - {49,49}
-2021.06.17 16:43:57.362 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 16:44:06.223 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:44:06.253 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:44:06.254 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,1}
-2021.06.17 16:45:32.527 INFO  View.MazeLogger - Starting new game
-2021.06.17 16:45:34.043 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:45:34.074 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:45:34.084 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,49}
-2021.06.17 16:45:37.871 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:45:37.897 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:45:37.898 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,13}
-2021.06.17 16:45:43.763 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 16:45:43.770 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 16:45:43.770 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,48}
-2021.06.17 17:09:11.644 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 17:09:18.620 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:09:20.325 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:09:20.354 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:09:20.359 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,2}
-2021.06.17 17:09:22.104 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 17:09:28.060 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:09:28.070 INFO  View.MazeLogger - New maze generated using EmptyMazeGenerator maze generator
-2021.06.17 17:09:28.070 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,0} goal position - {49,49}
-2021.06.17 17:13:26.994 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:13:29.876 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:13:29.892 INFO  View.MazeLogger - New maze generated using EmptyMazeGenerator maze generator
-2021.06.17 17:13:29.898 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,0} goal position - {49,49}
-2021.06.17 17:13:32.695 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 17:13:39.023 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:13:39.053 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:13:39.053 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,9}
-2021.06.17 17:29:44.856 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:30:46.233 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:31:12.905 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:31:13.957 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:31:13.983 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:31:13.990 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,2}
-2021.06.17 17:31:36.738 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:31:37.811 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:31:37.849 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:31:37.857 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {35,40}
-2021.06.17 17:38:54.040 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:38:55.142 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:38:55.171 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:38:55.177 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,21}
-2021.06.17 17:40:44.226 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:40:45.288 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:40:45.320 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:40:45.327 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,1}
-2021.06.17 17:41:55.917 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:42:22.873 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:43:01.344 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:43:28.589 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:43:50.551 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:43:51.707 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:43:51.738 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:43:51.746 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,46}
-2021.06.17 17:44:40.080 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:46:40.503 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:47:47.971 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:48:37.143 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:49:45.126 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:49:46.969 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:49:47.001 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:49:47.011 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,2}
-2021.06.17 17:52:30.088 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:53:31.733 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:54:00.235 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:54:44.642 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:56:20.012 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:57:10.384 INFO  View.MazeLogger - Starting new game
-2021.06.17 17:57:11.818 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 17:57:11.849 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 17:57:11.855 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,48}
-2021.06.17 18:00:19.516 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:00:38.427 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:00:39.297 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:00:39.331 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:00:39.339 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {42,0}
-2021.06.17 18:08:46.877 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:08:47.776 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:08:47.806 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:08:47.812 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,49}
-2021.06.17 18:08:47.816 ERROR View.MazeLogger - No wall image
-2021.06.17 18:08:47.817 ERROR View.MazeLogger - No wall image
-2021.06.17 18:08:47.818 ERROR View.MazeLogger - No wall image
-2021.06.17 18:09:51.116 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:09:52.163 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:09:52.201 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:09:52.210 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,1}
-2021.06.17 18:09:52.215 ERROR View.MazeLogger - No wall image
-2021.06.17 18:09:52.217 ERROR View.MazeLogger - No wall image
-2021.06.17 18:09:52.218 ERROR View.MazeLogger - No wall image
-2021.06.17 18:11:10.063 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:11:10.984 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:11:11.014 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:11:11.023 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,24}
-2021.06.17 18:12:51.741 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:13:20.153 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:13:54.084 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:13:54.941 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:13:54.970 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:13:54.979 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,44}
-2021.06.17 18:13:54.983 ERROR View.MazeLogger - No wall image
-2021.06.17 18:13:54.984 ERROR View.MazeLogger - No wall image
-2021.06.17 18:13:54.986 ERROR View.MazeLogger - No wall image
-2021.06.17 18:15:09.781 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:16:29.341 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:16:30.492 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:16:30.521 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:16:30.529 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {43,1}
-2021.06.17 18:16:30.534 ERROR View.MazeLogger - No wall image
-2021.06.17 18:16:30.535 ERROR View.MazeLogger - No wall image
-2021.06.17 18:16:30.537 ERROR View.MazeLogger - No wall image
-2021.06.17 18:17:46.970 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:17:47.997 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:17:48.030 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:17:48.041 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,5}
-2021.06.17 18:19:34.278 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:20:55.132 INFO  View.MazeLogger - Load menu opened
-2021.06.17 18:21:07.154 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:23:24.156 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:23:35.078 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:23:36.243 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:23:36.275 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:23:36.283 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,32}
-2021.06.17 18:23:36.287 ERROR View.MazeLogger - No wall image
-2021.06.17 18:23:36.289 ERROR View.MazeLogger - No wall image
-2021.06.17 18:23:36.291 ERROR View.MazeLogger - No wall image
-2021.06.17 18:26:01.804 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:26:03.566 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:26:03.588 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:26:03.594 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {1,8}
-2021.06.17 18:26:03.598 ERROR View.MazeLogger - No wall image
-2021.06.17 18:26:03.598 ERROR View.MazeLogger - No wall image
-2021.06.17 18:26:03.599 ERROR View.MazeLogger - No wall image
-2021.06.17 18:27:09.573 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:27:10.590 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:27:10.619 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:27:10.625 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,25}
-2021.06.17 18:27:10.629 ERROR View.MazeLogger - No wall image
-2021.06.17 18:27:10.631 ERROR View.MazeLogger - No wall image
-2021.06.17 18:27:10.634 ERROR View.MazeLogger - No wall image
-2021.06.17 18:27:27.770 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:27:28.763 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:27:28.789 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:27:28.795 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,27}
-2021.06.17 18:27:33.233 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:27:33.239 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:27:33.239 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {3,0}
-2021.06.17 18:28:07.079 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:28:08.964 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:28:08.981 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:28:08.990 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {9,9}
-2021.06.17 18:28:09.075 ERROR View.MazeLogger - No wall image
-2021.06.17 18:28:09.114 ERROR View.MazeLogger - No wall image
-2021.06.17 18:28:09.139 ERROR View.MazeLogger - No wall image
-2021.06.17 18:28:43.697 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:28:58.344 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:29:13.437 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:33:24.713 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:33:25.811 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:33:25.840 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:33:25.846 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {36,41}
-2021.06.17 18:33:25.924 ERROR View.MazeLogger - No wall image
-2021.06.17 18:33:25.975 ERROR View.MazeLogger - No wall image
-2021.06.17 18:33:26.000 ERROR View.MazeLogger - No wall image
-2021.06.17 18:33:41.263 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:34:31.261 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:34:32.454 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:34:32.479 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:34:32.486 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {45,46}
-2021.06.17 18:34:32.561 ERROR View.MazeLogger - No wall image
-2021.06.17 18:34:32.605 ERROR View.MazeLogger - No wall image
-2021.06.17 18:34:32.621 ERROR View.MazeLogger - No wall image
-2021.06.17 18:34:43.676 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:34:51.589 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:35:03.616 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:35:04.690 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:35:04.732 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:35:04.739 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {38,24}
-2021.06.17 18:35:04.802 ERROR View.MazeLogger - No wall image
-2021.06.17 18:35:04.845 ERROR View.MazeLogger - No wall image
-2021.06.17 18:35:04.865 ERROR View.MazeLogger - No wall image
-2021.06.17 18:36:38.866 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:41:38.948 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:41:56.677 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:42:18.679 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:42:19.682 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:42:19.710 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:42:19.717 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,42}
-2021.06.17 18:42:19.822 ERROR View.MazeLogger - No wall image
-2021.06.17 18:42:19.857 ERROR View.MazeLogger - No wall image
-2021.06.17 18:42:19.879 ERROR View.MazeLogger - No wall image
-2021.06.17 18:42:40.523 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:45:14.834 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:45:49.698 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:45:51.705 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:45:51.740 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:45:51.748 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,1}
-2021.06.17 18:46:06.679 ERROR View.MazeLogger - No wall image
-2021.06.17 18:46:13.261 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:46:14.296 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:46:14.330 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:46:14.339 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {45,2}
-2021.06.17 18:50:54.568 ERROR View.MazeLogger - No wall image
-2021.06.17 18:50:54.649 ERROR View.MazeLogger - No wall image
-2021.06.17 18:51:02.473 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:51:09.328 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:51:09.348 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:51:09.357 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {7,8}
-2021.06.17 18:51:28.611 ERROR View.MazeLogger - No wall image
-2021.06.17 18:51:45.076 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:51:48.047 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:51:48.063 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:51:48.072 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {9,1}
-2021.06.17 18:52:00.059 ERROR View.MazeLogger - No wall image
-2021.06.17 18:52:32.849 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:52:33.870 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:52:33.907 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:52:33.915 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,25}
-2021.06.17 18:53:29.641 ERROR View.MazeLogger - No wall image
-2021.06.17 18:54:00.312 INFO  View.MazeLogger - Starting new game
-2021.06.17 18:54:02.227 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 18:54:02.264 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 18:54:02.272 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,24}
-2021.06.17 18:54:07.324 ERROR View.MazeLogger - No wall image
-2021.06.17 19:06:57.760 ERROR View.MazeLogger - No wall image
-2021.06.17 19:06:57.791 ERROR View.MazeLogger - No wall image
-2021.06.17 19:07:06.329 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:07:20.583 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:07:21.595 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:07:21.626 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:07:21.634 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,43}
-2021.06.17 19:07:21.710 ERROR View.MazeLogger - No wall image
-2021.06.17 19:07:21.747 ERROR View.MazeLogger - No wall image
-2021.06.17 19:07:21.779 ERROR View.MazeLogger - No wall image
-2021.06.17 19:07:39.264 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:07:40.579 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:07:40.614 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:07:40.624 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,2}
-2021.06.17 19:08:22.057 ERROR View.MazeLogger - No wall image
-2021.06.17 19:08:30.638 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:08:32.038 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:08:32.089 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:08:32.097 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,6}
-2021.06.17 19:10:24.490 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:10:25.456 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:10:25.483 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:10:25.490 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,47}
-2021.06.17 19:10:33.905 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:10:33.912 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:10:33.912 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {4,3}
-2021.06.17 19:10:51.718 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:10:53.069 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:10:53.095 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:10:53.103 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,15}
-2021.06.17 19:10:58.065 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:10:58.079 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:10:58.080 INFO  View.MazeLogger - Maze info: rows - 2 cols - 2 start position - {0,1} goal position - {1,0}
-2021.06.17 19:11:53.214 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:11:55.328 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:11:55.343 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:11:55.350 INFO  View.MazeLogger - Maze info: rows - 2 cols - 2 start position - {0,1} goal position - {1,1}
-2021.06.17 19:14:05.937 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:14:30.972 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:14:39.393 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:14:40.948 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:14:40.960 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:14:40.968 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {9,2}
-2021.06.17 19:16:50.564 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:16:51.613 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:16:51.640 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:16:51.644 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,6}
-2021.06.17 19:17:37.217 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:17:38.872 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:17:38.899 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:17:38.904 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,43}
-2021.06.17 19:27:55.993 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:27:57.110 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:27:57.140 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:27:57.146 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,4}
-2021.06.17 19:32:38.763 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:32:39.983 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:32:40.016 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:32:40.023 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,41}
-2021.06.17 19:37:46.330 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:38:29.779 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:38:31.228 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:38:31.258 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:38:31.265 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,23}
-2021.06.17 19:40:55.449 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:40:56.404 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:40:56.431 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:40:56.440 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {41,48}
-2021.06.17 19:42:45.711 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:42:47.025 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:42:47.056 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:42:47.064 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,2}
-2021.06.17 19:45:12.495 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:45:14.068 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:45:14.077 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:45:14.083 INFO  View.MazeLogger - Maze info: rows - 2 cols - 2 start position - {0,1} goal position - {1,1}
-2021.06.17 19:45:14.088 ERROR View.MazeLogger - No goal image
-2021.06.17 19:45:14.151 ERROR View.MazeLogger - No goal image
-2021.06.17 19:45:14.165 ERROR View.MazeLogger - No goal image
-2021.06.17 19:45:41.082 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:45:42.863 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:45:42.874 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:45:42.880 INFO  View.MazeLogger - Maze info: rows - 2 cols - 2 start position - {0,1} goal position - {0,0}
-2021.06.17 19:47:26.751 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:47:29.235 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:47:29.253 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:47:29.268 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {3,3}
-2021.06.17 19:51:51.663 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:51:56.287 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:51:57.285 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:51:57.327 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:51:57.335 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,46}
-2021.06.17 19:51:59.273 INFO  View.MazeLogger - User saves current maze
-2021.06.17 19:51:59.274 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,46}
-2021.06.17 19:52:21.668 INFO  View.MazeLogger - Starting new game
-2021.06.17 19:52:22.839 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:52:22.868 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:52:22.875 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,2}
-2021.06.17 19:52:26.602 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:52:26.632 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:52:26.633 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,49}
-2021.06.17 19:52:28.093 INFO  View.MazeLogger - User saves current maze
-2021.06.17 19:52:28.093 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,49}
-2021.06.17 19:52:33.438 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:52:36.972 INFO  View.MazeLogger - opening maze file
-2021.06.17 19:52:36.973 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,47}
-2021.06.17 19:52:42.902 INFO  View.MazeLogger - User saves current maze
-2021.06.17 19:52:42.903 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,47}
-2021.06.17 19:52:47.396 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 19:52:47.406 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 19:52:47.406 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,22}
-2021.06.17 19:52:50.101 INFO  View.MazeLogger - Opening Maze Runner Configuration window
-2021.06.17 19:52:53.342 INFO  View.MazeLogger - User saves current maze
-2021.06.17 19:52:53.342 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,22}
-2021.06.17 19:52:59.970 INFO  View.MazeLogger - User requested a solution to the maze
-2021.06.17 19:52:59.970 INFO  View.MazeLogger - Connecting to a Maze Solving Server...
-2021.06.17 19:52:59.973 INFO  View.MazeLogger - Program will use BreadthFirstSearch solving algorithm
-2021.06.17 19:53:00.015 INFO  View.MazeLogger - Sending solution
-2021.06.17 19:54:19.593 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:54:23.321 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:55:14.514 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:55:24.433 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:56:02.030 INFO  View.MazeLogger - Load menu opened
-2021.06.17 19:58:52.884 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:01:20.856 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:02:13.863 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:03:31.854 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:07:58.389 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:08:40.595 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:10:14.389 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:12:18.981 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:13:22.890 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:13:37.920 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:14:21.933 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:18:28.922 INFO  View.MazeLogger - Starting new game
-2021.06.17 20:18:30.302 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 20:18:30.338 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 20:18:30.347 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,0}
-2021.06.17 20:18:31.921 INFO  View.MazeLogger - User saves current maze
-2021.06.17 20:18:31.922 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,0}
-2021.06.17 20:28:55.153 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:32:40.905 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:32:46.085 INFO  View.MazeLogger - Starting new game
-2021.06.17 20:32:47.188 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 20:32:47.220 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 20:32:47.230 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,46}
-2021.06.17 20:33:05.085 INFO  View.MazeLogger - Starting new game
-2021.06.17 20:33:06.238 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 20:33:06.269 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 20:33:06.276 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,49}
-2021.06.17 20:33:13.107 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:33:29.290 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:37:19.123 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:38:09.105 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:41:43.901 INFO  View.MazeLogger - Load menu opened
-2021.06.17 20:41:46.269 INFO  View.MazeLogger - Starting new game
-2021.06.17 20:41:47.454 INFO  View.MazeLogger - User requests a new maze, connecting to server...
-2021.06.17 20:41:47.493 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
-2021.06.17 20:41:47.501 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,0}
+2024.05.06 19:01:35.740 INFO  View.MazeLogger - Starting new game
+2024.05.06 19:01:38.926 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 19:01:38.926 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 19:01:38.934 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 19:01:38.938 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {3,4}
+2024.05.06 19:01:55.064 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.06 19:02:00.682 INFO  View.MazeLogger - Starting new game
+2024.05.06 19:02:06.009 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 19:02:06.011 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 19:02:06.018 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 19:02:06.021 INFO  View.MazeLogger - Maze info: rows - 2 cols - 10 start position - {0,5} goal position - {1,9}
+2024.05.06 19:05:33.869 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.06 19:05:37.590 INFO  View.MazeLogger - Starting new game
+2024.05.06 19:05:38.932 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 19:05:38.934 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 19:05:38.950 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 19:05:38.954 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,0}
+2024.05.06 21:34:59.414 INFO  View.MazeLogger - Starting new game
+2024.05.06 21:35:04.431 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 21:35:04.432 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 21:35:04.448 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 21:35:04.456 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {4,3}
+2024.05.06 21:37:04.248 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.06 21:38:57.804 INFO  View.MazeLogger - Starting new game
+2024.05.06 21:39:03.416 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 21:39:03.418 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 21:39:03.430 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 21:39:03.435 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {0,0}
+2024.05.06 21:51:15.797 INFO  View.MazeLogger - Starting new game
+2024.05.06 21:51:20.121 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 21:51:20.122 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 21:51:20.130 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 21:51:20.135 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {4,4}
+2024.05.06 22:07:27.593 INFO  View.MazeLogger - Starting new game
+2024.05.06 22:07:31.901 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 22:07:31.901 INFO  View.MazeLogger - User successfully connected to Server.
+2024.05.06 22:07:31.911 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 22:07:31.916 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {3,3}
+2024.05.06 22:12:57.801 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.06 22:13:02.422 INFO  View.MazeLogger - Starting new game
+2024.05.06 22:13:08.092 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 22:13:08.102 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 22:13:08.107 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {3,4}
+2024.05.06 22:14:15.766 INFO  View.MazeLogger - Starting new game
+2024.05.06 22:14:18.842 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 22:14:18.868 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 22:14:18.872 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,49}
+2024.05.06 22:33:03.822 INFO  View.MazeLogger - Starting new game
+2024.05.06 22:33:06.230 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 22:33:06.259 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 22:33:06.264 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,49}
+2024.05.06 22:37:50.639 INFO  View.MazeLogger - Starting new game
+2024.05.06 22:37:57.854 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 22:37:57.862 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 22:37:57.865 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {2,2}
+2024.05.06 23:58:17.640 INFO  View.MazeLogger - Starting new game
+2024.05.06 23:58:22.096 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 23:58:22.105 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 23:58:22.110 INFO  View.MazeLogger - Maze info: rows - 5 cols - 5 start position - {0,2} goal position - {2,0}
+2024.05.06 23:59:30.594 INFO  View.MazeLogger - Starting new game
+2024.05.06 23:59:32.177 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.06 23:59:32.199 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.06 23:59:32.203 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,1}
+2024.05.07 00:03:33.667 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:03:34.500 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:03:34.519 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:03:34.526 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {47,0}
+2024.05.07 00:05:53.556 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:05:54.329 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:05:54.350 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:05:54.354 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,45}
+2024.05.07 00:07:59.186 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:08:02.195 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:08:02.219 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:08:02.226 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,0}
+2024.05.07 00:09:45.009 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:09:46.016 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:09:46.036 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:09:46.041 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,39}
+2024.05.07 00:12:16.596 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:12:17.482 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:12:17.501 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:12:17.505 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,19}
+2024.05.07 00:14:06.916 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:14:08.126 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:14:08.146 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:14:08.150 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {45,46}
+2024.05.07 00:16:09.705 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:16:10.978 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:16:10.996 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:16:11.000 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {44,47}
+2024.05.07 00:16:29.643 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:16:34.439 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:16:34.448 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:16:34.453 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {9,6}
+2024.05.07 00:16:42.853 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.07 00:16:48.886 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:16:48.900 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:16:48.901 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,3}
+2024.05.07 00:16:52.986 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.07 00:16:57.537 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.07 00:17:02.404 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:17:02.419 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:17:02.419 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,5}
+2024.05.07 00:17:16.448 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.07 00:17:19.534 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:17:20.512 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:17:20.531 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:17:20.535 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,29}
+2024.05.07 00:17:35.371 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:17:38.702 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:17:38.711 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:17:38.715 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {7,8}
+2024.05.07 00:17:50.235 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:17:50.248 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:17:50.248 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {46,35}
+2024.05.07 00:17:54.429 INFO  View.MazeLogger - User requested a solution to the maze
+2024.05.07 00:17:54.430 INFO  View.MazeLogger - Connecting to a Maze Solving Server...
+2024.05.07 00:17:54.430 INFO  View.MazeLogger - Program will use BreadthFirstSearch solving algorithm
+2024.05.07 00:17:54.451 INFO  View.MazeLogger - Sending solution
+2024.05.07 00:18:51.065 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:18:53.269 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:18:53.278 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:18:53.282 INFO  View.MazeLogger - Maze info: rows - 10 cols - 10 start position - {0,5} goal position - {5,6}
+2024.05.07 00:43:24.883 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.07 00:43:29.253 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:43:30.168 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:43:30.187 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:43:30.191 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {48,0}
+2024.05.07 00:46:47.566 INFO  View.MazeLogger - Starting new game
+2024.05.07 00:46:48.464 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:46:48.484 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:46:48.488 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {49,42}
+2024.05.07 00:46:52.735 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:46:52.750 INFO  View.MazeLogger - New maze generated using MyMazeGenerator maze generator
+2024.05.07 00:46:52.750 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,25} goal position - {43,4}
+2024.05.07 00:46:54.923 INFO  View.MazeLogger - Opening Maze Runner Configuration window
+2024.05.07 00:47:00.436 INFO  View.MazeLogger - User requests a new maze, connecting to server...
+2024.05.07 00:47:00.444 INFO  View.MazeLogger - New maze generated using EmptyMazeGenerator maze generator
+2024.05.07 00:47:00.444 INFO  View.MazeLogger - Maze info: rows - 50 cols - 50 start position - {0,0} goal position - {49,49}
